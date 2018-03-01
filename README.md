@@ -4,9 +4,9 @@ Skrapar Emils placering och skickar som ett sms
 
 #### TODO:
 
-[x] .env för Twilio-datan
-[*] Bättre sett att se om datan är uppdaterad? (än att jämföra med lokal fil)
-[*] Städa upp koden
+* [x] .env för Twilio-datan
+* [ ] Bättre sett att se om datan är uppdaterad? (än att jämföra med lokal fil)
+* [ ] Städa upp koden
 
 #### Kod från: 
 
