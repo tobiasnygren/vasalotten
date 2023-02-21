@@ -4,7 +4,7 @@
   "description": "Scrapes results.vasaloppet.se for most recent place and sends it as a text message",
   "main": "scraper.js",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.2",
     "cheerio": "^1.0.0-rc.2",
     "dotenv": "^5.0.1",
     "twilio": "^3.12.0"
